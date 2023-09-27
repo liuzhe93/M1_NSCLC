@@ -1,0 +1,401 @@
+GO.ID,Term,Annotated,Significant,Expected,Rank in Fisher.classic,Fisher.elim,Fisher.classic
+GO:0010043,response to zinc ion,20,5,0.13,1,1.5e-07,1.7e-07
+GO:0071280,cellular response to copper ion,16,4,0.11,3,3.0e-06,3.2e-06
+GO:0010743,regulation of macrophage derived foam ce...,17,4,0.11,4,3.9e-06,4.2e-06
+GO:0006882,cellular zinc ion homeostasis,20,4,0.13,5,7.8e-06,8.3e-06
+GO:0071276,cellular response to cadmium ion,24,4,0.16,15,1.7e-05,1.8e-05
+GO:0045926,negative regulation of growth,134,7,0.89,18,2.7e-05,3.0e-05
+GO:0010885,regulation of cholesterol storage,14,3,0.09,24,9.6e-05,0.00010
+GO:0060986,endocrine hormone secretion,20,3,0.13,34,0.00029,0.00031
+GO:0071345,cellular response to cytokine stimulus,503,11,3.33,36,0.00040,0.00046
+GO:0030224,monocyte differentiation,24,3,0.16,38,0.00051,0.00053
+GO:0046888,negative regulation of hormone secretion,25,3,0.17,41,0.00057,0.00060
+GO:0022612,gland morphogenesis,61,4,0.4,44,0.00069,0.00073
+GO:0015909,long-chain fatty acid transport,30,3,0.2,51,0.00099,0.00104
+GO:0001541,ovarian follicle development,31,3,0.21,53,0.00109,0.00115
+GO:0045670,regulation of osteoclast differentiation,35,3,0.23,60,0.00156,0.00164
+GO:0098754,detoxification,79,4,0.52,63,0.00181,0.00192
+GO:0050872,white fat cell differentiation,10,2,0.07,64,0.00188,0.00194
+GO:0010544,negative regulation of platelet activati...,10,2,0.07,65,0.00188,0.00194
+GO:0051781,positive regulation of cell division,39,3,0.26,68,0.00214,0.00224
+GO:0034104,negative regulation of tissue remodeling,11,2,0.07,70,0.00229,0.00236
+GO:0042953,lipoprotein transport,12,2,0.08,77,0.00273,0.00283
+GO:0071312,cellular response to alkaloid,13,2,0.09,80,0.00322,0.00332
+GO:1900117,regulation of execution phase of apoptos...,13,2,0.09,81,0.00322,0.00332
+GO:0051250,negative regulation of lymphocyte activa...,95,4,0.63,83,0.00354,0.00376
+GO:0045649,regulation of macrophage differentiation,14,2,0.09,84,0.00374,0.00386
+GO:0044703,multi-organism reproductive process,98,4,0.65,85,0.00396,0.00421
+GO:0030728,ovulation,15,2,0.1,86,0.00429,0.00444
+GO:0042476,odontogenesis,50,3,0.33,87,0.00435,0.00456
+GO:0044706,multi-multicellular organism process,101,4,0.67,88,0.00441,0.00469
+GO:0046887,positive regulation of hormone secretion,53,3,0.35,93,0.00513,0.00537
+GO:0051154,negative regulation of striated muscle c...,17,2,0.11,95,0.00551,0.00570
+GO:0010888,negative regulation of lipid storage,17,2,0.11,96,0.00551,0.00570
+GO:0010875,positive regulation of cholesterol efflu...,17,2,0.11,97,0.00551,0.00570
+GO:0042326,negative regulation of phosphorylation,246,6,1.63,99,0.00556,0.00604
+GO:2000272,negative regulation of signaling recepto...,18,2,0.12,102,0.00618,0.00638
+GO:0010862,positive regulation of pathway-restricte...,18,2,0.12,103,0.00618,0.00638
+GO:0043065,positive regulation of apoptotic process,333,7,2.21,104,0.00618,0.00678
+GO:0030003,cellular cation homeostasis,292,10,1.94,16,0.00644,2.2e-05
+GO:0022408,negative regulation of cell-cell adhesio...,113,4,0.75,106,0.00656,0.00696
+GO:0055074,calcium ion homeostasis,186,5,1.23,116,0.00760,0.00815
+GO:0032496,response to lipopolysaccharide,186,5,1.23,117,0.00760,0.00815
+GO:0045639,positive regulation of myeloid cell diff...,64,3,0.42,120,0.00866,0.00907
+GO:0032673,regulation of interleukin-4 production,23,2,0.15,125,0.01000,0.01033
+GO:0071402,cellular response to lipoprotein particl...,23,2,0.15,126,0.01000,0.01033
+GO:0050727,regulation of inflammatory response,201,5,1.33,132,0.01043,0.01118
+GO:0032649,regulation of interferon-gamma productio...,69,3,0.46,130,0.01064,0.01114
+GO:0032609,interferon-gamma production,69,3,0.46,131,0.01064,0.01114
+GO:0032689,negative regulation of interferon-gamma ...,24,2,0.16,133,0.01086,0.01122
+GO:2001239,regulation of extrinsic apoptotic signal...,25,2,0.17,141,0.01176,0.01214
+GO:0050868,negative regulation of T cell activation,73,3,0.48,147,0.01240,0.01297
+GO:0045834,positive regulation of lipid metabolic p...,74,3,0.49,150,0.01286,0.01346
+GO:0008584,male gonad development,75,3,0.5,154,0.01334,0.01395
+GO:0002762,negative regulation of myeloid leukocyte...,27,2,0.18,156,0.01364,0.01408
+GO:0046546,development of primary male sexual chara...,76,3,0.5,159,0.01382,0.01446
+GO:0014070,response to organic cyclic compound,486,8,3.22,164,0.01423,0.01566
+GO:0001933,negative regulation of protein phosphory...,218,5,1.45,163,0.01444,0.01545
+GO:0006469,negative regulation of protein kinase ac...,144,4,0.95,166,0.01505,0.01592
+GO:1903038,negative regulation of leukocyte cell-ce...,79,3,0.52,168,0.01533,0.01604
+GO:0055088,lipid homeostasis,82,3,0.54,174,0.01693,0.01771
+GO:0008630,intrinsic apoptotic signaling pathway in...,82,3,0.54,175,0.01693,0.01771
+GO:0050873,brown fat cell differentiation,31,2,0.21,177,0.01776,0.01834
+GO:0097242,amyloid-beta clearance,31,2,0.21,178,0.01776,0.01834
+GO:0046661,male sex differentiation,84,3,0.56,182,0.01805,0.01887
+GO:0045453,bone resorption,32,2,0.21,183,0.01887,0.01948
+GO:0007264,small GTPase mediated signal transductio...,322,6,2.13,187,0.01928,0.02080
+GO:0001890,placenta development,87,3,0.58,186,0.01980,0.02070
+GO:0002763,positive regulation of myeloid leukocyte...,33,2,0.22,185,0.02000,0.02064
+GO:0003006,developmental process involved in reprod...,472,10,3.13,52,0.02023,0.00110
+GO:1904705,regulation of vascular associated smooth...,34,2,0.23,191,0.02116,0.02184
+GO:0033673,negative regulation of kinase activity,160,4,1.06,194,0.02131,0.02252
+GO:1990874,vascular associated smooth muscle cell p...,35,2,0.23,195,0.02235,0.02306
+GO:0061180,mammary gland epithelium development,35,2,0.23,196,0.02235,0.02306
+GO:0051240,positive regulation of multicellular org...,745,10,4.94,205,0.02339,0.02605
+GO:1901568,fatty acid derivative metabolic process,36,2,0.24,199,0.02356,0.02432
+GO:0051057,positive regulation of small GTPase medi...,36,2,0.24,200,0.02356,0.02432
+GO:0007565,female pregnancy,94,3,0.62,201,0.02424,0.02532
+GO:0044070,regulation of anion transport,37,2,0.25,202,0.02481,0.02560
+GO:0050435,amyloid-beta metabolic process,37,2,0.25,203,0.02481,0.02560
+GO:0097006,regulation of plasma lipoprotein particl...,37,2,0.25,204,0.02481,0.02560
+GO:0072503,cellular divalent inorganic cation homeo...,201,8,1.33,20,0.02543,5.5e-05
+GO:0060395,SMAD protein signal transduction,38,2,0.25,206,0.02607,0.02690
+GO:0010823,negative regulation of mitochondrion org...,38,2,0.25,207,0.02607,0.02690
+GO:0031122,cytoplasmic microtubule organization,39,2,0.26,210,0.02737,0.02824
+GO:0031099,regeneration,99,3,0.66,213,0.02772,0.02894
+GO:0031100,animal organ regeneration,40,2,0.27,217,0.02869,0.02959
+GO:0007186,G protein-coupled receptor signaling pat...,261,5,1.73,222,0.02889,0.03079
+GO:0055092,sterol homeostasis,41,2,0.27,223,0.03003,0.03098
+GO:0045600,positive regulation of fat cell differen...,41,2,0.27,224,0.03003,0.03098
+GO:0042632,cholesterol homeostasis,41,2,0.27,225,0.03003,0.03098
+GO:0042127,regulation of cell population proliferat...,893,11,5.92,242,0.03083,0.03446
+GO:0043269,regulation of ion transport,266,5,1.76,232,0.03101,0.03303
+GO:0006874,cellular calcium ion homeostasis,180,4,1.19,231,0.03111,0.03283
+GO:0051453,regulation of intracellular pH,42,2,0.28,228,0.03140,0.03239
+GO:0030308,negative regulation of cell growth,104,3,0.69,230,0.03144,0.03282
+GO:0048871,multicellular organismal homeostasis,268,5,1.78,239,0.03188,0.03395
+GO:0042130,negative regulation of T cell proliferat...,43,2,0.29,234,0.03280,0.03382
+GO:0046889,positive regulation of lipid biosyntheti...,43,2,0.29,235,0.03280,0.03382
+GO:0046849,bone remodeling,43,2,0.29,236,0.03280,0.03382
+GO:0030301,cholesterol transport,43,2,0.29,237,0.03280,0.03382
+GO:0051348,negative regulation of transferase activ...,184,4,1.22,243,0.03335,0.03517
+GO:0042058,regulation of epidermal growth factor re...,44,2,0.29,244,0.03421,0.03528
+GO:0097192,extrinsic apoptotic signaling pathway in...,44,2,0.29,245,0.03421,0.03528
+GO:0038034,signal transduction in absence of ligand,44,2,0.29,246,0.03421,0.03528
+GO:1901214,regulation of neuron death,187,4,1.24,249,0.03508,0.03699
+GO:0048608,reproductive structure development,229,7,1.52,46,0.03595,0.00083
+GO:0022414,reproductive process,665,14,4.41,25,0.03699,0.00010
+GO:0043270,positive regulation of ion transport,111,3,0.74,251,0.03708,0.03869
+GO:0030641,regulation of cellular pH,46,2,0.3,250,0.03712,0.03828
+GO:0061458,reproductive system development,232,7,1.54,49,0.03768,0.00089
+GO:0000003,reproduction,668,14,4.43,26,0.03796,0.00011
+GO:0071230,cellular response to amino acid stimulus,47,2,0.31,254,0.03861,0.03981
+GO:1901184,regulation of ERBB signaling pathway,48,2,0.32,256,0.04012,0.04136
+GO:0006809,nitric oxide biosynthetic process,48,2,0.32,257,0.04012,0.04136
+GO:0007204,positive regulation of cytosolic calcium...,116,3,0.77,262,0.04141,0.04319
+GO:0045638,negative regulation of myeloid cell diff...,49,2,0.32,260,0.04165,0.04294
+GO:0006885,regulation of pH,49,2,0.32,261,0.04165,0.04294
+GO:0045859,regulation of protein kinase activity,387,6,2.57,267,0.04217,0.04522
+GO:1901215,negative regulation of neuron death,117,3,0.78,264,0.04231,0.04412
+GO:0070059,intrinsic apoptotic signaling pathway in...,50,2,0.33,266,0.04320,0.04454
+GO:0071478,cellular response to radiation,119,3,0.79,270,0.04413,0.04601
+GO:0071214,cellular response to abiotic stimulus,202,4,1.34,272,0.04454,0.04691
+GO:0104004,cellular response to environmental stimu...,202,4,1.34,273,0.04454,0.04691
+GO:0030865,cortical cytoskeleton organization,51,2,0.34,271,0.04478,0.04616
+GO:0046209,nitric oxide metabolic process,52,2,0.34,274,0.04638,0.04780
+GO:0015918,sterol transport,52,2,0.34,275,0.04638,0.04780
+GO:2000134,negative regulation of G1/S transition o...,53,2,0.35,277,0.04799,0.04946
+GO:0120162,positive regulation of cold-induced ther...,53,2,0.35,278,0.04799,0.04946
+GO:0032945,negative regulation of mononuclear cell ...,53,2,0.35,279,0.04799,0.04946
+GO:0050672,negative regulation of lymphocyte prolif...,53,2,0.35,280,0.04799,0.04946
+GO:1902106,negative regulation of leukocyte differe...,53,2,0.35,281,0.04799,0.04946
+GO:2001057,reactive nitrogen species metabolic proc...,53,2,0.35,282,0.04799,0.04946
+GO:0051480,regulation of cytosolic calcium ion conc...,124,3,0.82,284,0.04884,0.05091
+GO:0071229,cellular response to acid chemical,54,2,0.36,285,0.04963,0.05115
+GO:0061512,protein localization to cilium,54,2,0.36,286,0.04963,0.05115
+GO:1903707,negative regulation of hemopoiesis,54,2,0.36,287,0.04963,0.05115
+GO:0032465,regulation of cytokinesis,54,2,0.36,288,0.04963,0.05115
+GO:0050708,regulation of protein secretion,125,3,0.83,289,0.04981,0.05192
+GO:0009888,tissue development,965,11,6.4,297,0.05002,0.05551
+GO:1903828,negative regulation of protein localizat...,126,3,0.84,292,0.05080,0.05293
+GO:0070664,negative regulation of leukocyte prolife...,55,2,0.36,291,0.05129,0.05285
+GO:0051302,regulation of cell division,97,5,0.64,37,0.05178,0.00047
+GO:0006954,inflammatory response,408,6,2.71,300,0.05220,0.05586
+GO:0097305,response to alcohol,128,3,0.85,295,0.05279,0.05500
+GO:0034097,response to cytokine,568,13,3.77,21,0.05301,8.1e-05
+GO:1903037,regulation of leukocyte cell-cell adhesi...,214,4,1.42,298,0.05305,0.05581
+GO:0001503,ossification,214,4,1.42,299,0.05305,0.05581
+GO:0070997,neuron death,216,4,1.43,304,0.05454,0.05738
+GO:0030004,cellular monovalent inorganic cation hom...,57,2,0.38,301,0.05467,0.05632
+GO:0014902,myotube differentiation,57,2,0.38,302,0.05467,0.05632
+GO:0002573,myeloid leukocyte differentiation,133,8,0.88,2,0.05473,2.7e-06
+GO:0032409,regulation of transporter activity,130,3,0.86,303,0.05482,0.05711
+GO:0051223,regulation of protein transport,313,5,2.08,308,0.05573,0.05913
+GO:0050863,regulation of T cell activation,218,4,1.45,307,0.05607,0.05897
+GO:0050806,positive regulation of synaptic transmis...,58,2,0.38,306,0.05638,0.05809
+GO:1902807,negative regulation of cell cycle G1/S p...,59,2,0.39,311,0.05812,0.05987
+GO:0006875,cellular metal ion homeostasis,257,8,1.7,33,0.05860,0.00030
+GO:0051338,regulation of transferase activity,530,7,3.51,314,0.05980,0.06440
+GO:0001894,tissue homeostasis,137,3,0.91,315,0.06221,0.06477
+GO:0097190,apoptotic signaling pathway,428,6,2.84,346,0.06301,0.06732
+GO:1990830,cellular response to leukemia inhibitory...,62,2,0.41,316,0.06344,0.06534
+GO:0071071,regulation of phospholipid biosynthetic ...,10,1,0.07,317,0.06439,0.06545
+GO:0090399,replicative senescence,10,1,0.07,318,0.06439,0.06545
+GO:0034393,positive regulation of smooth muscle cel...,10,1,0.07,319,0.06439,0.06545
+GO:0034367,protein-containing complex remodeling,10,1,0.07,320,0.06439,0.06545
+GO:2000773,negative regulation of cellular senescen...,10,1,0.07,321,0.06439,0.06545
+GO:0071888,macrophage apoptotic process,10,1,0.07,322,0.06439,0.06545
+GO:1904406,negative regulation of nitric oxide meta...,10,1,0.07,323,0.06439,0.06545
+GO:0014898,cardiac muscle hypertrophy in response t...,10,1,0.07,324,0.06439,0.06545
+GO:0014887,cardiac muscle adaptation,10,1,0.07,325,0.06439,0.06545
+GO:0035791,platelet-derived growth factor receptor-...,10,1,0.07,326,0.06439,0.06545
+GO:2001198,regulation of dendritic cell differentia...,10,1,0.07,327,0.06439,0.06545
+GO:0051764,actin crosslink formation,10,1,0.07,328,0.06439,0.06545
+GO:0071371,cellular response to gonadotropin stimul...,10,1,0.07,329,0.06439,0.06545
+GO:0032309,icosanoid secretion,10,1,0.07,330,0.06439,0.06545
+GO:0060330,regulation of response to interferon-gam...,10,1,0.07,331,0.06439,0.06545
+GO:0060334,regulation of interferon-gamma-mediated ...,10,1,0.07,332,0.06439,0.06545
+GO:0035821,modulation of process of another organis...,10,1,0.07,333,0.06439,0.06545
+GO:0060644,mammary gland epithelial cell differenti...,10,1,0.07,334,0.06439,0.06545
+GO:0003299,muscle hypertrophy in response to stress,10,1,0.07,335,0.06439,0.06545
+GO:0071467,cellular response to pH,10,1,0.07,336,0.06439,0.06545
+GO:0010889,regulation of sequestering of triglyceri...,10,1,0.07,337,0.06439,0.06545
+GO:0110110,positive regulation of animal organ morp...,10,1,0.07,338,0.06439,0.06545
+GO:0045019,negative regulation of nitric oxide bios...,10,1,0.07,339,0.06439,0.06545
+GO:0060444,branching involved in mammary gland duct...,10,1,0.07,340,0.06439,0.06545
+GO:1900273,positive regulation of long-term synapti...,10,1,0.07,341,0.06439,0.06545
+GO:0051561,positive regulation of mitochondrial cal...,10,1,0.07,342,0.06439,0.06545
+GO:0097193,intrinsic apoptotic signaling pathway,229,4,1.52,348,0.06485,0.06814
+GO:0045667,regulation of osteoblast differentiation,63,2,0.42,344,0.06524,0.06719
+GO:1990823,response to leukemia inhibitory factor,63,2,0.42,345,0.06524,0.06719
+GO:0042110,T cell activation,329,5,2.18,353,0.06618,0.07012
+GO:0006869,lipid transport,178,6,1.18,56,0.06653,0.00120
+GO:0032944,regulation of mononuclear cell prolifera...,141,3,0.93,352,0.06663,0.06936
+GO:0071347,cellular response to interleukin-1,64,2,0.42,349,0.06707,0.06907
+GO:0050714,positive regulation of protein secretion,64,2,0.42,350,0.06707,0.06907
+GO:0034762,regulation of transmembrane transport,232,4,1.54,354,0.06736,0.07076
+GO:0034644,cellular response to UV,65,2,0.43,355,0.06891,0.07096
+GO:1902117,positive regulation of organelle assembl...,65,2,0.43,356,0.06891,0.07096
+GO:0050764,regulation of phagocytosis,65,2,0.43,357,0.06891,0.07096
+GO:0070201,regulation of establishment of protein l...,333,5,2.21,385,0.06896,0.07304
+GO:1900048,positive regulation of hemostasis,11,1,0.07,360,0.07060,0.07175
+GO:0042803,protein homodimerization activity,420,10,2.56,2,0.00019,0.00023
+GO:0005509,calcium ion binding,266,7,1.62,6,0.00109,0.00122
+GO:0008270,zinc ion binding,444,9,2.71,9,0.00134,0.00152
+GO:0036041,long-chain fatty acid binding,10,2,0.06,10,0.00160,0.00165
+GO:0042277,peptide binding,157,5,0.96,12,0.00260,0.00281
+GO:0008083,growth factor activity,48,3,0.29,14,0.00307,0.00322
+GO:0048306,calcium-dependent protein binding,49,3,0.3,15,0.00325,0.00342
+GO:0035091,phosphatidylinositol binding,174,5,1.06,17,0.00405,0.00437
+GO:0005179,hormone activity,16,2,0.1,16,0.00416,0.00430
+GO:0019899,enzyme binding,1398,16,8.53,22,0.00773,0.00926
+GO:0005125,cytokine activity,69,3,0.42,21,0.00849,0.00891
+GO:0042169,SH2 domain binding,24,2,0.15,23,0.00926,0.00959
+GO:0070888,E-box binding,27,2,0.16,25,0.01164,0.01205
+GO:0003779,actin binding,264,5,1.61,27,0.02198,0.02355
+GO:0046982,protein heterodimerization activity,177,4,1.08,28,0.02257,0.02392
+GO:1901981,phosphatidylinositol phosphate binding,106,3,0.65,29,0.02669,0.02794
+GO:0019900,kinase binding,494,7,3.01,30,0.02967,0.03232
+GO:0005546,phosphatidylinositol-4,5-bisphosphate bi...,46,2,0.28,31,0.03190,0.03296
+GO:0051015,actin filament binding,126,3,0.77,32,0.04138,0.04326
+GO:1902936,phosphatidylinositol bisphosphate bindin...,59,2,0.36,33,0.05016,0.05177
+GO:0043177,organic acid binding,59,2,0.36,34,0.05016,0.05177
+GO:0001227,DNA-binding transcription repressor acti...,140,3,0.85,35,0.05364,0.05601
+GO:0001217,DNA-binding transcription repressor acti...,143,3,0.87,36,0.05647,0.05896
+GO:0008525,phosphatidylcholine transporter activity,10,1,0.06,38,0.05941,0.06044
+GO:0097677,STAT family protein binding,10,1,0.06,39,0.05941,0.06044
+GO:0070513,death domain binding,10,1,0.06,40,0.05941,0.06044
+GO:0071855,neuropeptide receptor binding,10,1,0.06,41,0.05941,0.06044
+GO:0016289,CoA hydrolase activity,10,1,0.06,42,0.05941,0.06044
+GO:0052689,carboxylic ester hydrolase activity,66,2,0.4,43,0.06122,0.06316
+GO:0044877,protein-containing complex binding,829,9,5.06,51,0.06209,0.06811
+GO:0004725,protein tyrosine phosphatase activity,67,2,0.41,44,0.06286,0.06485
+GO:0005324,long-chain fatty acid transporter activi...,11,1,0.07,45,0.06515,0.06628
+GO:0035259,nuclear glucocorticoid receptor binding,11,1,0.07,46,0.06515,0.06628
+GO:0046965,nuclear retinoid X receptor binding,11,1,0.07,47,0.06515,0.06628
+GO:0030169,low-density lipoprotein particle binding,11,1,0.07,48,0.06515,0.06628
+GO:0005545,1-phosphatidylinositol binding,11,1,0.07,49,0.06515,0.06628
+GO:0120020,cholesterol transfer activity,11,1,0.07,50,0.06515,0.06628
+GO:0070403,NAD+ binding,12,1,0.07,53,0.07087,0.07209
+GO:0120015,sterol transfer activity,12,1,0.07,54,0.07087,0.07209
+GO:0017046,peptide hormone binding,12,1,0.07,55,0.07087,0.07209
+GO:0008092,cytoskeletal protein binding,608,7,3.71,63,0.07514,0.08103
+GO:0051393,alpha-actinin binding,13,1,0.08,56,0.07654,0.07786
+GO:0017134,fibroblast growth factor binding,13,1,0.08,57,0.07654,0.07786
+GO:1901567,fatty acid derivative binding,13,1,0.08,58,0.07654,0.07786
+GO:0000062,fatty-acyl-CoA binding,13,1,0.08,59,0.07654,0.07786
+GO:0042826,histone deacetylase binding,76,2,0.46,60,0.07830,0.08072
+GO:0005319,lipid transporter activity,76,2,0.46,61,0.07830,0.08072
+GO:0004930,G protein-coupled receptor activity,76,2,0.46,62,0.07830,0.08072
+GO:0005158,insulin receptor binding,14,1,0.09,64,0.08219,0.08360
+GO:0120227,acyl-CoA binding,14,1,0.09,65,0.08219,0.08360
+GO:0005092,GDP-dissociation inhibitor activity,14,1,0.09,66,0.08219,0.08360
+GO:0140326,ATPase-coupled intramembrane lipid trans...,14,1,0.09,67,0.08219,0.08360
+GO:0043425,bHLH transcription factor binding,14,1,0.09,68,0.08219,0.08360
+GO:0035035,histone acetyltransferase binding,15,1,0.09,69,0.08780,0.08930
+GO:0035250,UDP-galactosyltransferase activity,15,1,0.09,70,0.08780,0.08930
+GO:0071813,lipoprotein particle binding,15,1,0.09,71,0.08780,0.08930
+GO:0071814,protein-lipid complex binding,15,1,0.09,72,0.08780,0.08930
+GO:1901618,organic hydroxy compound transmembrane t...,16,1,0.1,73,0.09337,0.09496
+GO:0005044,scavenger receptor activity,16,1,0.1,74,0.09337,0.09496
+GO:0017124,SH3 domain binding,85,2,0.52,75,0.09478,0.09766
+GO:0030742,GTP-dependent protein binding,17,1,0.1,76,0.09892,0.10060
+GO:0000979,RNA polymerase II core promoter sequence...,17,1,0.1,77,0.09892,0.10060
+GO:0008378,galactosyltransferase activity,17,1,0.1,78,0.09892,0.10060
+GO:0070412,R-SMAD binding,18,1,0.11,79,0.10443,0.10619
+GO:0080025,phosphatidylinositol-3,5-bisphosphate bi...,18,1,0.11,80,0.10443,0.10619
+GO:0070034,telomerase RNA binding,18,1,0.11,81,0.10443,0.10619
+GO:0005543,phospholipid binding,273,7,1.67,7,0.10800,0.00141
+GO:0042974,nuclear retinoic acid receptor binding,19,1,0.12,82,0.10990,0.11176
+GO:0001965,G-protein alpha-subunit binding,19,1,0.12,83,0.10990,0.11176
+GO:0098772,molecular function regulator activity,982,13,5.99,19,0.11225,0.00619
+GO:0140303,intramembrane lipid transporter activity,20,1,0.12,85,0.11535,0.11729
+GO:0042805,actinin binding,20,1,0.12,86,0.11535,0.11729
+GO:0005154,epidermal growth factor receptor binding,21,1,0.13,87,0.12076,0.12278
+GO:1990756,ubiquitin ligase-substrate adaptor activ...,21,1,0.13,88,0.12076,0.12278
+GO:0016597,amino acid binding,21,1,0.13,89,0.12076,0.12278
+GO:0140767,enzyme-substrate adaptor activity,21,1,0.13,90,0.12076,0.12278
+GO:0043325,phosphatidylinositol-3,4-bisphosphate bi...,21,1,0.13,91,0.12076,0.12278
+GO:0015248,sterol transporter activity,21,1,0.13,92,0.12076,0.12278
+GO:0140359,ABC-type transporter activity,22,1,0.13,93,0.12614,0.12824
+GO:0019901,protein kinase binding,441,5,2.69,97,0.13035,0.13761
+GO:0051959,dynein light intermediate chain binding,23,1,0.14,95,0.13148,0.13367
+GO:0015459,potassium channel regulator activity,23,1,0.14,96,0.13148,0.13367
+GO:0016922,nuclear receptor binding,105,2,0.64,98,0.13442,0.13832
+GO:0004857,enzyme inhibitor activity,209,3,1.28,99,0.13484,0.14009
+GO:1901681,sulfur compound binding,110,2,0.67,100,0.14485,0.14900
+GO:0030545,signaling receptor regulator activity,138,6,0.84,1,0.14631,0.00020
+GO:0016790,thiolester hydrolase activity,26,1,0.16,101,0.14733,0.14976
+GO:0008289,lipid binding,429,10,2.62,3,0.14965,0.00027
+GO:0030515,snoRNA binding,27,1,0.16,102,0.15255,0.15505
+GO:0008375,acetylglucosaminyltransferase activity,27,1,0.16,103,0.15255,0.15505
+GO:0035198,miRNA binding,27,1,0.16,104,0.15255,0.15505
+GO:0001786,phosphatidylserine binding,28,1,0.17,105,0.15773,0.16032
+GO:0032266,phosphatidylinositol-3-phosphate binding,28,1,0.17,106,0.15773,0.16032
+GO:0043531,ADP binding,28,1,0.17,107,0.15773,0.16032
+GO:0005507,copper ion binding,28,1,0.17,108,0.15773,0.16032
+GO:0004721,phosphoprotein phosphatase activity,117,2,0.71,109,0.15973,0.16423
+GO:0030234,enzyme regulator activity,740,7,4.52,116,0.16216,0.17292
+GO:0120013,lipid transfer activity,29,1,0.18,110,0.16289,0.16555
+GO:0042562,hormone binding,29,1,0.18,111,0.16289,0.16555
+GO:0015485,cholesterol binding,30,1,0.18,112,0.16801,0.17075
+GO:0098531,ligand-activated transcription factor ac...,30,1,0.18,113,0.16801,0.17075
+GO:0004879,nuclear receptor activity,30,1,0.18,114,0.16801,0.17075
+GO:0051020,GTPase binding,233,3,1.42,117,0.16954,0.17583
+GO:0005547,phosphatidylinositol-3,4,5-trisphosphate...,31,1,0.19,118,0.17311,0.17592
+GO:0005518,collagen binding,32,1,0.2,119,0.17817,0.18105
+GO:0061980,regulatory RNA binding,32,1,0.2,120,0.17817,0.18105
+GO:0005126,cytokine receptor binding,127,2,0.78,122,0.18144,0.18643
+GO:0098632,cell-cell adhesion mediator activity,33,1,0.2,121,0.18320,0.18616
+GO:0005548,phospholipid transporter activity,35,1,0.21,123,0.19318,0.19628
+GO:0061629,RNA polymerase II-specific DNA-binding t...,250,3,1.53,126,0.19555,0.20257
+GO:0016504,peptidase activator activity,36,1,0.22,124,0.19812,0.20129
+GO:0005080,protein kinase C binding,36,1,0.22,125,0.19812,0.20129
+GO:0003682,chromatin binding,378,4,2.31,131,0.19855,0.20715
+GO:0050839,cell adhesion molecule binding,378,4,2.31,132,0.19855,0.20715
+GO:0005102,signaling receptor binding,664,10,4.05,20,0.19921,0.00713
+GO:0004888,transmembrane signaling receptor activit...,253,3,1.54,133,0.20025,0.20739
+GO:0038024,cargo receptor activity,37,1,0.23,127,0.20304,0.20627
+GO:0004222,metalloendopeptidase activity,37,1,0.23,128,0.20304,0.20627
+GO:0098631,cell adhesion mediator activity,37,1,0.23,129,0.20304,0.20627
+GO:0001046,core promoter sequence-specific DNA bind...,37,1,0.23,130,0.20304,0.20627
+GO:0032934,sterol binding,38,1,0.23,134,0.20792,0.21122
+GO:0043621,protein self-association,38,1,0.23,135,0.20792,0.21122
+GO:0016811,hydrolase activity, acting on carbon-nit...,39,1,0.24,136,0.21277,0.21614
+GO:0051287,NAD binding,39,1,0.24,137,0.21277,0.21614
+GO:0016836,hydro-lyase activity,40,1,0.24,138,0.21760,0.22103
+GO:0005085,guanyl-nucleotide exchange factor activi...,144,2,0.88,139,0.21926,0.22505
+GO:0033218,amide binding,201,6,1.23,8,0.22129,0.00147
+GO:0072341,modified amino acid binding,42,1,0.26,140,0.22716,0.23072
+GO:0003823,antigen binding,43,1,0.26,142,0.23190,0.23552
+GO:0043178,alcohol binding,44,1,0.27,143,0.23661,0.24029
+GO:0042626,ATPase-coupled transmembrane transporter...,44,1,0.27,144,0.23661,0.24029
+GO:0005496,steroid binding,45,1,0.27,146,0.24129,0.24503
+GO:0019904,protein domain specific binding,452,6,2.76,37,0.24500,0.06034
+GO:0001540,amyloid-beta binding,48,1,0.29,147,0.25517,0.25909
+GO:0016788,hydrolase activity, acting on ester bond...,423,4,2.58,149,0.25745,0.26774
+GO:0008233,peptidase activity,289,3,1.76,148,0.25842,0.26699
+GO:0016835,carbon-oxygen lyase activity,50,1,0.31,150,0.26428,0.26831
+GO:0004860,protein kinase inhibitor activity,51,1,0.31,151,0.26879,0.27288
+GO:0008017,microtubule binding,166,2,1.01,152,0.26908,0.27581
+GO:0000978,RNA polymerase II cis-regulatory region ...,437,4,2.67,157,0.27652,0.28728
+GO:0046332,SMAD binding,53,1,0.32,153,0.27774,0.28194
+GO:0030695,GTPase regulator activity,301,3,1.84,158,0.27837,0.28737
+GO:0060589,nucleoside-triphosphatase regulator acti...,301,3,1.84,159,0.27837,0.28737
+GO:0035591,signaling adaptor activity,54,1,0.33,154,0.28217,0.28642
+GO:0016410,N-acyltransferase activity,54,1,0.33,155,0.28217,0.28642
+GO:0019210,kinase inhibitor activity,54,1,0.33,156,0.28217,0.28642
+GO:0000987,cis-regulatory region sequence-specific ...,447,4,2.73,162,0.29029,0.30139
+GO:0004252,serine-type endopeptidase activity,56,1,0.34,160,0.29096,0.29531
+GO:0008201,heparin binding,57,1,0.35,161,0.29531,0.29972
+GO:0000981,DNA-binding transcription factor activit...,451,4,2.75,164,0.29583,0.30705
+GO:0016791,phosphatase activity,178,2,1.09,163,0.29633,0.30353
+GO:1990837,sequence-specific double-stranded DNA bi...,597,5,3.64,167,0.29920,0.31219
+GO:0008238,exopeptidase activity,59,1,0.36,165,0.30394,0.30845
+GO:0051117,ATPase binding,59,1,0.36,166,0.30394,0.30845
+GO:1990782,protein tyrosine kinase binding,60,1,0.37,168,0.30822,0.31277
+GO:0004175,endopeptidase activity,184,2,1.12,169,0.30992,0.31733
+GO:0003700,DNA-binding transcription factor activit...,465,4,2.84,172,0.31534,0.32698
+GO:0099106,ion channel regulator activity,62,1,0.38,170,0.31669,0.32134
+GO:0016810,hydrolase activity, acting on carbon-nit...,63,1,0.38,171,0.32089,0.32558
+GO:0016247,channel regulator activity,64,1,0.39,173,0.32506,0.32980
+GO:0008236,serine-type peptidase activity,65,1,0.4,174,0.32921,0.33399
+GO:0017171,serine hydrolase activity,66,1,0.4,175,0.33333,0.33816
+GO:0070851,growth factor receptor binding,66,1,0.4,176,0.33333,0.33816
+GO:0008194,UDP-glycosyltransferase activity,66,1,0.4,177,0.33333,0.33816
+GO:0140297,DNA-binding transcription factor binding,334,3,2.04,178,0.33387,0.34393
+GO:0051219,phosphoprotein binding,69,1,0.42,179,0.34555,0.35051
+GO:0001228,DNA-binding transcription activator acti...,200,2,1.22,180,0.34589,0.35383
+GO:0001216,DNA-binding transcription activator acti...,200,2,1.22,181,0.34589,0.35383
+GO:0044325,transmembrane transporter binding,70,1,0.43,182,0.34958,0.35457
+GO:0019838,growth factor binding,70,1,0.43,183,0.34958,0.35457
+GO:0000977,RNA polymerase II transcription regulato...,499,4,3.05,186,0.36315,0.37570
+GO:0030674,protein-macromolecule adaptor activity,208,2,1.27,184,0.36367,0.37185
+GO:0042578,phosphoric ester hydrolase activity,209,2,1.28,185,0.36588,0.37409
+GO:0003690,double-stranded DNA binding,660,5,4.03,188,0.37670,0.39133
+GO:0042802,identical protein binding,1187,15,7.24,18,0.37702,0.00484
+GO:0008237,metallopeptidase activity,77,1,0.47,187,0.37708,0.38234
+GO:0043565,sequence-specific DNA binding,669,5,4.08,195,0.38788,0.40269
+GO:0060089,molecular transducer activity,368,3,2.25,193,0.39105,0.40198
+GO:0038023,signaling receptor activity,368,3,2.25,194,0.39105,0.40198
+GO:0016616,oxidoreductase activity, acting on the C...,81,1,0.49,189,0.39227,0.39767
+GO:0005539,glycosaminoglycan binding,81,1,0.49,190,0.39227,0.39767
+GO:0001221,transcription coregulator binding,82,1,0.5,191,0.39601,0.40144
+GO:0003697,single-stranded DNA binding,82,1,0.5,192,0.39601,0.40144
+GO:0005178,integrin binding,84,1,0.51,196,0.40343,0.40893
+GO:0016614,oxidoreductase activity, acting on CH-OH...,86,1,0.52,197,0.41076,0.41631
+GO:0015631,tubulin binding,243,2,1.48,198,0.43912,0.44813
+GO:0005525,GTP binding,244,2,1.49,200,0.44121,0.45024
+GO:0016758,hexosyltransferase activity,95,1,0.58,199,0.44265,0.44845
+GO:0032561,guanyl ribonucleotide binding,249,2,1.52,201,0.45160,0.46072
+GO:0019001,guanyl nucleotide binding,249,2,1.52,202,0.45160,0.46072
+GO:0015399,primary active transmembrane transporter...,99,1,0.6,203,0.45627,0.46217
+GO:0044389,ubiquitin-like protein ligase binding,252,2,1.54,204,0.45778,0.46695
+GO:0000976,transcription cis-regulatory region bind...,568,4,3.47,205,0.45960,0.47341
+GO:0001067,transcription regulatory region nucleic ...,569,4,3.47,206,0.46097,0.47479
+GO:0060090,molecular adaptor activity,258,2,1.57,207,0.47003,0.47929
+GO:0016829,lyase activity,105,1,0.64,208,0.47610,0.48213
+GO:0019903,protein phosphatase binding,109,1,0.67,209,0.48892,0.49502
+GO:0008134,transcription factor binding,430,3,2.62,211,0.49183,0.50374
+GO:0061134,peptidase regulator activity,111,1,0.68,210,0.49521,0.50135
+GO:0045296,cadherin binding,271,2,1.65,212,0.49601,0.50544
